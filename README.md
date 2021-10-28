@@ -1,2 +1,4 @@
 # OnlineTestApp
-First mini Project 
+First mini Project with Java and Swing.
+
+Have fun :)
